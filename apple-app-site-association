@@ -1,15 +1,11 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinks",
-				"paths": [ "*"]
-			},
-			{
-				"appID": "473VV338ZU.com.zgpeace.UniversalLinksNew",
-				"paths": [ "*"]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6ZFW7CQT7W.io.ionic.starter.jq-ios",
+                "paths": [ "*" ]
+            }
+        ]
+    }
 }
